@@ -1,0 +1,17 @@
+C:\Users\mwnmw\C Projects\Server Side Web Programming\Labs\MP3 Player\MP3 Player\bin\Debug\net6.0-windows\MP3 Player.exe
+C:\Users\mwnmw\C Projects\Server Side Web Programming\Labs\MP3 Player\MP3 Player\bin\Debug\net6.0-windows\MP3 Player.deps.json
+C:\Users\mwnmw\C Projects\Server Side Web Programming\Labs\MP3 Player\MP3 Player\bin\Debug\net6.0-windows\MP3 Player.runtimeconfig.json
+C:\Users\mwnmw\C Projects\Server Side Web Programming\Labs\MP3 Player\MP3 Player\bin\Debug\net6.0-windows\MP3 Player.dll
+C:\Users\mwnmw\C Projects\Server Side Web Programming\Labs\MP3 Player\MP3 Player\bin\Debug\net6.0-windows\MP3 Player.pdb
+C:\Users\mwnmw\C Projects\Server Side Web Programming\Labs\MP3 Player\MP3 Player\obj\Debug\net6.0-windows\MP3 Player.csproj.AssemblyReference.cache
+C:\Users\mwnmw\C Projects\Server Side Web Programming\Labs\MP3 Player\MP3 Player\obj\Debug\net6.0-windows\MP3_Player.Form1.resources
+C:\Users\mwnmw\C Projects\Server Side Web Programming\Labs\MP3 Player\MP3 Player\obj\Debug\net6.0-windows\MP3 Player.csproj.GenerateResource.cache
+C:\Users\mwnmw\C Projects\Server Side Web Programming\Labs\MP3 Player\MP3 Player\obj\Debug\net6.0-windows\MP3 Player.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mwnmw\C Projects\Server Side Web Programming\Labs\MP3 Player\MP3 Player\obj\Debug\net6.0-windows\MP3 Player.AssemblyInfoInputs.cache
+C:\Users\mwnmw\C Projects\Server Side Web Programming\Labs\MP3 Player\MP3 Player\obj\Debug\net6.0-windows\MP3 Player.AssemblyInfo.cs
+C:\Users\mwnmw\C Projects\Server Side Web Programming\Labs\MP3 Player\MP3 Player\obj\Debug\net6.0-windows\MP3 Player.csproj.CoreCompileInputs.cache
+C:\Users\mwnmw\C Projects\Server Side Web Programming\Labs\MP3 Player\MP3 Player\obj\Debug\net6.0-windows\MP3 Player.dll
+C:\Users\mwnmw\C Projects\Server Side Web Programming\Labs\MP3 Player\MP3 Player\obj\Debug\net6.0-windows\refint\MP3 Player.dll
+C:\Users\mwnmw\C Projects\Server Side Web Programming\Labs\MP3 Player\MP3 Player\obj\Debug\net6.0-windows\MP3 Player.pdb
+C:\Users\mwnmw\C Projects\Server Side Web Programming\Labs\MP3 Player\MP3 Player\obj\Debug\net6.0-windows\MP3 Player.genruntimeconfig.cache
+C:\Users\mwnmw\C Projects\Server Side Web Programming\Labs\MP3 Player\MP3 Player\obj\Debug\net6.0-windows\ref\MP3 Player.dll
