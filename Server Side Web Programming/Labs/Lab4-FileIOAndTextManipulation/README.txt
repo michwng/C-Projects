@@ -1,0 +1,1 @@
+This lab focuses on importing a CSV (Comma Separated Values) file into the application, turning the data in the file into objects, and exporting the CSV into a PSV (Pipe Separated Values) file.
