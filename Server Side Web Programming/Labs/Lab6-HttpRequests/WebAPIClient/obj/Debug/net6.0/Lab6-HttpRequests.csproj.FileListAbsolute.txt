@@ -1,0 +1,15 @@
+C:\Users\mwnmw\C Projects\Server Side Web Programming\Labs\Lab6-HttpRequests\Lab6-HttpRequests\bin\Debug\net6.0\Lab6-HttpRequests.exe
+C:\Users\mwnmw\C Projects\Server Side Web Programming\Labs\Lab6-HttpRequests\Lab6-HttpRequests\bin\Debug\net6.0\Lab6-HttpRequests.deps.json
+C:\Users\mwnmw\C Projects\Server Side Web Programming\Labs\Lab6-HttpRequests\Lab6-HttpRequests\bin\Debug\net6.0\Lab6-HttpRequests.runtimeconfig.json
+C:\Users\mwnmw\C Projects\Server Side Web Programming\Labs\Lab6-HttpRequests\Lab6-HttpRequests\bin\Debug\net6.0\Lab6-HttpRequests.dll
+C:\Users\mwnmw\C Projects\Server Side Web Programming\Labs\Lab6-HttpRequests\Lab6-HttpRequests\bin\Debug\net6.0\Lab6-HttpRequests.pdb
+C:\Users\mwnmw\C Projects\Server Side Web Programming\Labs\Lab6-HttpRequests\Lab6-HttpRequests\obj\Debug\net6.0\Lab6-HttpRequests.csproj.AssemblyReference.cache
+C:\Users\mwnmw\C Projects\Server Side Web Programming\Labs\Lab6-HttpRequests\Lab6-HttpRequests\obj\Debug\net6.0\Lab6-HttpRequests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mwnmw\C Projects\Server Side Web Programming\Labs\Lab6-HttpRequests\Lab6-HttpRequests\obj\Debug\net6.0\Lab6-HttpRequests.AssemblyInfoInputs.cache
+C:\Users\mwnmw\C Projects\Server Side Web Programming\Labs\Lab6-HttpRequests\Lab6-HttpRequests\obj\Debug\net6.0\Lab6-HttpRequests.AssemblyInfo.cs
+C:\Users\mwnmw\C Projects\Server Side Web Programming\Labs\Lab6-HttpRequests\Lab6-HttpRequests\obj\Debug\net6.0\Lab6-HttpRequests.csproj.CoreCompileInputs.cache
+C:\Users\mwnmw\C Projects\Server Side Web Programming\Labs\Lab6-HttpRequests\Lab6-HttpRequests\obj\Debug\net6.0\Lab6-HttpRequests.dll
+C:\Users\mwnmw\C Projects\Server Side Web Programming\Labs\Lab6-HttpRequests\Lab6-HttpRequests\obj\Debug\net6.0\refint\Lab6-HttpRequests.dll
+C:\Users\mwnmw\C Projects\Server Side Web Programming\Labs\Lab6-HttpRequests\Lab6-HttpRequests\obj\Debug\net6.0\Lab6-HttpRequests.pdb
+C:\Users\mwnmw\C Projects\Server Side Web Programming\Labs\Lab6-HttpRequests\Lab6-HttpRequests\obj\Debug\net6.0\Lab6-HttpRequests.genruntimeconfig.cache
+C:\Users\mwnmw\C Projects\Server Side Web Programming\Labs\Lab6-HttpRequests\Lab6-HttpRequests\obj\Debug\net6.0\ref\Lab6-HttpRequests.dll

@@ -1,0 +1,15 @@
+C:\Users\mwnmw\C Projects\Server Side Web Programming\Labs\Lab6-HttpRequests\WebAPIClient\bin\Debug\net6.0\WebAPIClient.exe
+C:\Users\mwnmw\C Projects\Server Side Web Programming\Labs\Lab6-HttpRequests\WebAPIClient\bin\Debug\net6.0\WebAPIClient.deps.json
+C:\Users\mwnmw\C Projects\Server Side Web Programming\Labs\Lab6-HttpRequests\WebAPIClient\bin\Debug\net6.0\WebAPIClient.runtimeconfig.json
+C:\Users\mwnmw\C Projects\Server Side Web Programming\Labs\Lab6-HttpRequests\WebAPIClient\bin\Debug\net6.0\WebAPIClient.dll
+C:\Users\mwnmw\C Projects\Server Side Web Programming\Labs\Lab6-HttpRequests\WebAPIClient\bin\Debug\net6.0\WebAPIClient.pdb
+C:\Users\mwnmw\C Projects\Server Side Web Programming\Labs\Lab6-HttpRequests\WebAPIClient\obj\Debug\net6.0\WebAPIClient.csproj.AssemblyReference.cache
+C:\Users\mwnmw\C Projects\Server Side Web Programming\Labs\Lab6-HttpRequests\WebAPIClient\obj\Debug\net6.0\WebAPIClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mwnmw\C Projects\Server Side Web Programming\Labs\Lab6-HttpRequests\WebAPIClient\obj\Debug\net6.0\WebAPIClient.AssemblyInfoInputs.cache
+C:\Users\mwnmw\C Projects\Server Side Web Programming\Labs\Lab6-HttpRequests\WebAPIClient\obj\Debug\net6.0\WebAPIClient.AssemblyInfo.cs
+C:\Users\mwnmw\C Projects\Server Side Web Programming\Labs\Lab6-HttpRequests\WebAPIClient\obj\Debug\net6.0\WebAPIClient.csproj.CoreCompileInputs.cache
+C:\Users\mwnmw\C Projects\Server Side Web Programming\Labs\Lab6-HttpRequests\WebAPIClient\obj\Debug\net6.0\WebAPIClient.dll
+C:\Users\mwnmw\C Projects\Server Side Web Programming\Labs\Lab6-HttpRequests\WebAPIClient\obj\Debug\net6.0\refint\WebAPIClient.dll
+C:\Users\mwnmw\C Projects\Server Side Web Programming\Labs\Lab6-HttpRequests\WebAPIClient\obj\Debug\net6.0\WebAPIClient.pdb
+C:\Users\mwnmw\C Projects\Server Side Web Programming\Labs\Lab6-HttpRequests\WebAPIClient\obj\Debug\net6.0\WebAPIClient.genruntimeconfig.cache
+C:\Users\mwnmw\C Projects\Server Side Web Programming\Labs\Lab6-HttpRequests\WebAPIClient\obj\Debug\net6.0\ref\WebAPIClient.dll
