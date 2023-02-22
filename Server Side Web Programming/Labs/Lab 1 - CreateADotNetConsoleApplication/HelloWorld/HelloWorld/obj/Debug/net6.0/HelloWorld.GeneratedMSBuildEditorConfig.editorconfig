@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = HelloWorld
+build_property.ProjectDir = C:\Users\mwnmw\OneDrive\Desktop\College Homework\Spring 2022\Server Side Web Programming\Labs\Lab1_create_a_dotnet_console_application\HelloWorld\HelloWorld\

@@ -1,0 +1,15 @@
+C:\Users\mwnmw\OneDrive\Desktop\College Homework\Spring 2022\Server Side Web Programming\Labs\Lab1_create_a_dotnet_console_application\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.exe
+C:\Users\mwnmw\OneDrive\Desktop\College Homework\Spring 2022\Server Side Web Programming\Labs\Lab1_create_a_dotnet_console_application\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.deps.json
+C:\Users\mwnmw\OneDrive\Desktop\College Homework\Spring 2022\Server Side Web Programming\Labs\Lab1_create_a_dotnet_console_application\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.runtimeconfig.json
+C:\Users\mwnmw\OneDrive\Desktop\College Homework\Spring 2022\Server Side Web Programming\Labs\Lab1_create_a_dotnet_console_application\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.dll
+C:\Users\mwnmw\OneDrive\Desktop\College Homework\Spring 2022\Server Side Web Programming\Labs\Lab1_create_a_dotnet_console_application\HelloWorld\HelloWorld\bin\Debug\net6.0\ref\HelloWorld.dll
+C:\Users\mwnmw\OneDrive\Desktop\College Homework\Spring 2022\Server Side Web Programming\Labs\Lab1_create_a_dotnet_console_application\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.pdb
+C:\Users\mwnmw\OneDrive\Desktop\College Homework\Spring 2022\Server Side Web Programming\Labs\Lab1_create_a_dotnet_console_application\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\mwnmw\OneDrive\Desktop\College Homework\Spring 2022\Server Side Web Programming\Labs\Lab1_create_a_dotnet_console_application\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mwnmw\OneDrive\Desktop\College Homework\Spring 2022\Server Side Web Programming\Labs\Lab1_create_a_dotnet_console_application\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\mwnmw\OneDrive\Desktop\College Homework\Spring 2022\Server Side Web Programming\Labs\Lab1_create_a_dotnet_console_application\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfo.cs
+C:\Users\mwnmw\OneDrive\Desktop\College Homework\Spring 2022\Server Side Web Programming\Labs\Lab1_create_a_dotnet_console_application\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\mwnmw\OneDrive\Desktop\College Homework\Spring 2022\Server Side Web Programming\Labs\Lab1_create_a_dotnet_console_application\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.dll
+C:\Users\mwnmw\OneDrive\Desktop\College Homework\Spring 2022\Server Side Web Programming\Labs\Lab1_create_a_dotnet_console_application\HelloWorld\HelloWorld\obj\Debug\net6.0\ref\HelloWorld.dll
+C:\Users\mwnmw\OneDrive\Desktop\College Homework\Spring 2022\Server Side Web Programming\Labs\Lab1_create_a_dotnet_console_application\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.pdb
+C:\Users\mwnmw\OneDrive\Desktop\College Homework\Spring 2022\Server Side Web Programming\Labs\Lab1_create_a_dotnet_console_application\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache

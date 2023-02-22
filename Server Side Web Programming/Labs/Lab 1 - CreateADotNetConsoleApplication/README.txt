@@ -1,0 +1,1 @@
+An introductory assignment introducing us to GitHub, C#, Visual Studio, and repository maangement/version control using Visual Studio and GitHub in conjunction.
